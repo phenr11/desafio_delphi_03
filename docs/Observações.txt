@@ -1,0 +1,8 @@
+Olá, senhores.
+Tive uns problemas técnicos ao instalar pacote para fazer o relatório, devido ao prazo, optei por entregar sem o relatório.
+Como não tinha definido se haveria permissões(login), nessa versão do projeto eu não implementei permissões/restrições para acessar as telas, entretanto, não deixei que os registros fossem excluídos depois de criados.
+Qualquer dúvida, estou a disposição.
+
+Atenciosamene,
+
+Pedro H F Santos
